@@ -1,0 +1,7 @@
+Variable_Name = list(map(int, input().split()))
+
+
+# list = Stores the inputs in the form of list.
+# map = its an iteretion function used to take space sepearated inputs one by one.
+# int = input type it cange be (str) for string
+# split = separates the space separated input by default.
